@@ -1,8 +1,5 @@
 {
   "author": "TATAPSTAR",
-  "category": [
-    "biomes"
-  ],
   "context": "server",
   "date": "2023/04/06",
   "forum": "https://steamcommunity.com/app/386070/discussions/0/3821908348797134489/",
@@ -13,5 +10,6 @@
   "identifier": "com.pa.biomes.lite.server",
   "signature": "(not yet implemented)",
   "titansOnly": true,
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "build": "116400"
 }
