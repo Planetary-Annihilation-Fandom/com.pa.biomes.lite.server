@@ -6,6 +6,8 @@
   "context": "server",
   "date": "2023/04/06",
   "forum": "https://steamcommunity.com/app/386070/discussions/0/3821908348797134489/",
+  "github": "https://github.com/Planetary-Annihilation-Fandom/com.pa.biomes.lite.server",
+  "icon": "https://raw.githubusercontent.com/Planetary-Annihilation-Fandom/com.pa.biomes.lite.server/main/icon.png",
   "description": "Lite version of biomes for asymetric cybersport games",
   "display_name": "Biomes Lite",
   "identifier": "com.pa.biomes.lite.server",
