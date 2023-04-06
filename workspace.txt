@@ -1,0 +1,9 @@
+Биомы:
+- Desert
+- Grass
+- Ice
+- Jungle
+- Lava
+- Moon
+- Mountain
+- Sand
