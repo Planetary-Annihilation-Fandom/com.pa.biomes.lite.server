@@ -97,6 +97,14 @@
         {
             "note": "17",
             "inherit_noise": true
+        },
+        {
+            "note":"18 Biomes Lite Ramps",
+            "noise": {
+                "scale": 3,
+                "zoom": 2,
+                "type": "simplex"
+            }
         }
     ],
     "brushes": [
@@ -153,7 +161,7 @@
             "proj":"BP_Bend",
               
             "max_instances": 2,
-            "layer": 1,
+            "layer": 18,
             "threshold": 0,
             "weight": 1,
             "weight_hard": 20,
@@ -177,7 +185,7 @@
             "proj":"BP_Bend",
 
             "max_instances": 2,
-            "layer": 1,
+            "layer": 18,
             "threshold": 0,
             "weight": 1,
             "weight_hard": 20,
@@ -200,7 +208,7 @@
             "proj":"BP_Bend",
 
             "max_instances": 2,
-            "layer": 1,
+            "layer": 18,
             "threshold": 0,
             "weight": 1,
             "weight_hard": 20,
@@ -222,7 +230,7 @@
             "op":"BO_Add",
             "proj":"BP_Bend",
             "max_instances": 2,
-            "layer": 1,
+            "layer": 18,
             "threshold": 0,
             "weight": 1,
             "weight_hard": 20,
@@ -245,7 +253,7 @@
             "op":"BO_Add",
             "proj":"BP_Bend",
             "max_instances": 2,
-            "layer": 1,
+            "layer": 18,
             "threshold": 0,
             "weight": 1,
             "weight_hard": 20,
@@ -268,7 +276,7 @@
             "op":"BO_Add",
             "proj":"BP_Bend",
             "max_instances": 2,
-            "layer": 1,
+            "layer": 18,
             "threshold": 0,
             "weight": 1,
             "weight_hard": 20,
@@ -290,7 +298,7 @@
             "op":"BO_Add",
             "proj":"BP_Bend",
             "max_instances": 2,
-            "layer": 1,
+            "layer": 18,
             "threshold": 0,
             "weight": 1,
             "weight_hard": 20,
