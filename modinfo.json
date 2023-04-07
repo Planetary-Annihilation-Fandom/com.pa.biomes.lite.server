@@ -13,7 +13,8 @@
   
   "category": [
         	"biomes",
-        	"planets"
+        	"planets",
+          "titans"
   ],
   
   "version": "1.0.1",
