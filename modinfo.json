@@ -10,6 +10,12 @@
   "identifier": "com.pa.biomes.lite.server",
   "signature": "(not yet implemented)",
   "titansOnly": true,
-  "version": "1.0.0",
+  
+  "category": [
+        	"biomes",
+        	"planets"
+  ],
+  
+  "version": "1.0.1",
   "build": "116400"
 }
