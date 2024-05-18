@@ -15,8 +15,8 @@
     "github": "https://github.com/Planetary-Annihilation-Fandom/com.pa.biomes.lite.server",
 
     "build": "120799",
-    "version": "1.2.1-up1",
-    "date": "2024-05-11",
+    "version": "1.2.2-up0",
+    "date": "2024-05-18",
     
     "context":"server",
     "priority": 100,
@@ -27,7 +27,7 @@
         ]
     },
 
-    "dpendencies":[
+    "dependencies":[
         "com.pa.biomes.lite.client"
     ],
 
